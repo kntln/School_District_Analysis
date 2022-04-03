@@ -34,7 +34,7 @@ Due to academic dishonesty found within ninth-graders with respect to their read
 ![Math Scores by Grade Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Math_Scores_byGrade_AfterNaN.png)
 ![Reading Scores by Grade Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Reading_Scores_byGrade_AfterNaN.png)
     - Scores by school spending
-        - The % 0verall passing were the only one affected by the replacement. Specifically, for budgets less than $584 and $585-$629, the % overall passing increased by 0.4% while for budget of $630-$644, the % overall passing decreased by 0.2% and lastly for budget of $646-$675, the % overall passing declined by 0.5%. 
+        - The % overall passing were the only one affected by the replacement. Specifically, for budgets less than $584 and $585-$629, the % overall passing increased by 0.4% while for budget of $630-$644, the % overall passing decreased by 0.2% and lastly for budget of $646-$675, the % overall passing declined by 0.5%. 
 ![School Spending Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_BeforeNaN.png)
 ![School Spending Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_AfterNaN.png)
     - Scores by school size
