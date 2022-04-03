@@ -24,7 +24,7 @@ Due to academic dishonesty found within ninth-graders with respect to their read
 ![School Summary Results Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/School_Summary_AfterNaN.png) 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-    -Although the math and reading scores were replaced for ninth graders' in Thomas High School, the school's performance did not change relative to the other schools. The scores may have decreased by a few percentage, however, Thomas High School is still placed second, despite the change. This implies that the change had a minimal effect to the school's overall performance in comparison to the other schools. 
+    - Although the math and reading scores were replaced for ninth graders' in Thomas High School, the school's performance did not change relative to the other schools. The scores may have decreased by a few percentage, however, Thomas High School is still placed second, despite the change. This implies that the change had a minimal effect to the school's overall performance in comparison to the other schools. 
 ![Top Schools Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Top_Schools_BeforeNaN.png)
 ![Top Schools Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Top_Schools_AfterNaN.png)
 
