@@ -28,9 +28,9 @@ Due to academic dishonesty found within ninth-graders with respect to their read
 ![Top Schools Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Top_Schools_BeforeNaN.png)
 ![Top Schools Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Top_Schools_AfterNaN.png)
 
-- How does replacing the ninth-grade scores affect the following:
+- How does replacing the ninth-grade scores affect the following: 
     - Math and reading scores by grade
-        - Replacing the ninth-grade scores did not have an effect on math and reading scores by grade as illustrated by the table below. 
+            - Replacing the ninth-grade scores did not have an effect on math and reading scores by grade as illustrated by the table below.       
 ![Math Scores by Grade Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Math_Scores_byGrade_AfterNaN.png)
 ![Reading Scores by Grade Snapshot](https://github.com/kntln/School_District_Analysis/blob/main/Resources/Reading_Scores_byGrade_AfterNaN.png)
     - Scores by school spending
